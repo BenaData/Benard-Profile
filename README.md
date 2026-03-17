@@ -4,7 +4,7 @@
 
 📊 Skills & Tools:
 - Data Analysis: Excel, SQL (MySQL, BigQuery), Python, R
-- Visualization: Tableau
+- Visualization: Tableau, Excel, Python
 - Techniques: Data cleaning, exploratory data analysis (EDA), statistical analysis
 
 📚 Certifications:
