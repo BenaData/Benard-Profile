@@ -18,5 +18,5 @@
 📫 Connect with me:
 - LinkedIn: https://linkedin.com/in/benard-musyoka-bb15581bb
 - Twitter: https://twitter.com/benardmusyoka_/
-- Medium: https://medium.com/@benadata
+- Portfolio Website: https://benadata.github.io/
 - Tableau: https://public.tableau.com/app/profile/benard.mwinzi
